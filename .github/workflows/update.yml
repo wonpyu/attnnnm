@@ -39,6 +39,6 @@ steps:
 
       git add digital-artists.json
 
-      git diff --quiet && git diff --staged --quiet || git commit -m "update digital artists"
+      git diff --cached --quiet || git commit -m "update digital artists"
 
       git push
