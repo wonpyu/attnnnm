@@ -1,39 +1,44 @@
 name: Update Digital Artists
 
 on:
-  schedule:
-    - cron: '0 * * * *'
-  workflow_dispatch:
+workflow_dispatch:
+
+repository_dispatch:
+types:
+- update-digital-artists
 
 jobs:
-  scrape:
-    runs-on: ubuntu-latest
+scrape:
+runs-on: ubuntu-latest
 
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+permissions:
+  contents: write
 
-      - name: Setup Node
-        uses: actions/setup-node@v4
-        with:
-          node-version: 22
+steps:
+  - name: Checkout
+    uses: actions/checkout@v4
 
-      - name: Install
-        run: npm install
+  - name: Setup Node
+    uses: actions/setup-node@v4
+    with:
+      node-version: 22
 
-      - name: Install Playwright
-        run: npx playwright install chromium
+  - name: Install
+    run: npm install
 
-      - name: Run scraper
-        run: npm run scrape
+  - name: Install Playwright
+    run: npx playwright install chromium
 
-      - name: Commit changes
-        run: |
-          git config user.name "github-actions"
-          git config user.email "actions@github.com"
+  - name: Run scraper
+    run: npm run scrape
 
-          git add digital-artists.json
+  - name: Commit changes
+    run: |
+      git config user.name "github-actions"
+      git config user.email "actions@github.com"
 
-          git diff --quiet && git diff --staged --quiet || git commit -m "update digital artists"
+      git add digital-artists.json
 
-          git push
+      git diff --quiet && git diff --staged --quiet || git commit -m "update digital artists"
+
+      git push
