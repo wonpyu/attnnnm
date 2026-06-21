@@ -6,19 +6,17 @@ on:
 jobs:
   update-artists:
     runs-on: ubuntu-latest
+
     permissions:
       contents: write
 
     steps:
-      - name: Checkout Etalase (Public)
+      - name: Checkout public repo
         uses: actions/checkout@v4
 
-      - name: Checkout Dapur (Private)
-        uses: actions/checkout@v4
-        with:
-          repository: wonpyu/digital-artist-private
-          path: digital-artist-private
-          token: ${{ secrets.PAT_ARTIST }}
+      - name: Clone private repo
+        run: |
+          git clone https://x-access-token:${{ secrets.PAT_ARTIST }}@github.com/wonpyu/digital-artist-private.git
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -37,16 +35,17 @@ jobs:
         working-directory: digital-artist-private
         run: node scrape.js
 
-      - name: Move generated file to Etalase
+      - name: Copy generated files
         run: |
-          # Copy file hasil generate ke repo publik
-          cp -f digital-artist-private/digital-artists.json .
+          cp -f digital-artist-private/digital-artists.json . 2>/dev/null || true
 
-      - name: Commit and Push to Etalase
+      - name: Commit updated files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add digital-artists.json
-          git diff --staged --quiet || git commit -m "Update digital artists data"
+
+          git diff --staged --quiet || git commit -m "update digital artists"
+
           git push
-          
