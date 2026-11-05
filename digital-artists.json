@@ -1,6 +1,6 @@
 {
   "success": true,
-  "updated": "2026-11-05T16:01:13.130Z",
+  "updated": "2026-11-05T17:01:05.300Z",
   "count": 300,
   "artists": [
     {
@@ -77,11 +77,11 @@
       "rank": 6,
       "movement": "=",
       "artist": "KAROL G",
-      "points": 2556,
+      "points": 2568,
       "appleMusic": 953,
       "spotify": 854,
       "itunes": 92,
-      "youtube": 323,
+      "youtube": 336,
       "shazam": 179,
       "deezer": 155,
       "topCountry": "Spain",
@@ -189,11 +189,11 @@
       "rank": 14,
       "movement": "+1",
       "artist": "Anuel AA",
-      "points": 1510,
+      "points": 1508,
       "appleMusic": 536,
       "spotify": 639,
       "itunes": 8,
-      "youtube": 278,
+      "youtube": 276,
       "shazam": 41,
       "deezer": 8,
       "topCountry": "Chile",
@@ -245,7 +245,7 @@
       "rank": 18,
       "movement": "=",
       "artist": "HUGEL",
-      "points": 1204,
+      "points": 1205,
       "appleMusic": 280,
       "spotify": 300,
       "itunes": 229,
@@ -343,11 +343,11 @@
       "rank": 25,
       "movement": "-5",
       "artist": "Shakira",
-      "points": 1114,
+      "points": 1115,
       "appleMusic": 171,
       "spotify": 180,
       "itunes": 93,
-      "youtube": 568,
+      "youtube": 570,
       "shazam": 30,
       "deezer": 72,
       "topCountry": "Spain",
@@ -453,7 +453,21 @@
     },
     {
       "rank": 33,
-      "movement": "+1",
+      "movement": "=",
+      "artist": "BLOK3",
+      "points": 917,
+      "appleMusic": 311,
+      "spotify": 246,
+      "itunes": 41,
+      "youtube": 272,
+      "shazam": 39,
+      "deezer": 10,
+      "topCountry": "Turkey",
+      "entries": 35
+    },
+    {
+      "rank": 34,
+      "movement": "=",
       "artist": "rusowsky",
       "points": 914,
       "appleMusic": 422,
@@ -464,20 +478,6 @@
       "deezer": 1,
       "topCountry": "Mexico",
       "entries": 115
-    },
-    {
-      "rank": 34,
-      "movement": "-1",
-      "artist": "BLOK3",
-      "points": 914,
-      "appleMusic": 311,
-      "spotify": 246,
-      "itunes": 41,
-      "youtube": 268,
-      "shazam": 39,
-      "deezer": 10,
-      "topCountry": "Turkey",
-      "entries": 35
     },
     {
       "rank": 35,
@@ -540,7 +540,7 @@
       "movement": "+1",
       "artist": "Mauvais Djo",
       "points": 854,
-      "appleMusic": 381,
+      "appleMusic": 382,
       "spotify": 241,
       "itunes": 17,
       "youtube": 139,
@@ -609,8 +609,8 @@
       "rank": 44,
       "movement": "-2",
       "artist": "Asake",
-      "points": 728,
-      "appleMusic": 608,
+      "points": 729,
+      "appleMusic": 609,
       "spotify": 73,
       "itunes": 10,
       "youtube": 20,
@@ -623,11 +623,11 @@
       "rank": 45,
       "movement": "+1",
       "artist": "Feid",
-      "points": 717,
+      "points": 720,
       "appleMusic": 432,
       "spotify": 192,
       "itunes": 5,
-      "youtube": 50,
+      "youtube": 53,
       "shazam": 25,
       "deezer": 13,
       "topCountry": "Colombia",
@@ -739,7 +739,7 @@
       "appleMusic": 282,
       "spotify": 180,
       "itunes": 101,
-      "youtube": 74,
+      "youtube": 75,
       "shazam": 19,
       "deezer": 0,
       "topCountry": "India",
@@ -875,11 +875,11 @@
       "rank": 63,
       "movement": "-2",
       "artist": "Geolier",
-      "points": 568,
+      "points": 569,
       "appleMusic": 165,
       "spotify": 228,
       "itunes": 11,
-      "youtube": 160,
+      "youtube": 162,
       "shazam": 4,
       "deezer": 0,
       "topCountry": "Italy",
@@ -957,21 +957,7 @@
     },
     {
       "rank": 69,
-      "movement": "+1",
-      "artist": "Myke Towers",
-      "points": 541,
-      "appleMusic": 245,
-      "spotify": 221,
-      "itunes": 7,
-      "youtube": 41,
-      "shazam": 22,
-      "deezer": 5,
-      "topCountry": "Spain",
-      "entries": 22
-    },
-    {
-      "rank": 70,
-      "movement": "-7",
+      "movement": "-6",
       "artist": "Quevedo",
       "points": 540,
       "appleMusic": 153,
@@ -982,6 +968,20 @@
       "deezer": 15,
       "topCountry": "Spain",
       "entries": 18
+    },
+    {
+      "rank": 70,
+      "movement": "=",
+      "artist": "Myke Towers",
+      "points": 540,
+      "appleMusic": 245,
+      "spotify": 221,
+      "itunes": 7,
+      "youtube": 40,
+      "shazam": 22,
+      "deezer": 5,
+      "topCountry": "Spain",
+      "entries": 22
     },
     {
       "rank": 71,
@@ -1057,15 +1057,15 @@
       "rank": 76,
       "movement": "-2",
       "artist": "Ozuna",
-      "points": 486,
+      "points": 493,
       "appleMusic": 226,
       "spotify": 192,
       "itunes": 5,
-      "youtube": 55,
+      "youtube": 62,
       "shazam": 6,
       "deezer": 3,
       "topCountry": "Argentina",
-      "entries": 29
+      "entries": 30
     },
     {
       "rank": 77,
@@ -1085,11 +1085,11 @@
       "rank": 78,
       "movement": "+2",
       "artist": "TUL8TE",
-      "points": 468,
+      "points": 469,
       "appleMusic": 218,
       "spotify": 52,
       "itunes": 3,
-      "youtube": 176,
+      "youtube": 177,
       "shazam": 15,
       "deezer": 5,
       "topCountry": "Egypt",
@@ -1125,21 +1125,7 @@
     },
     {
       "rank": 81,
-      "movement": "+8",
-      "artist": "Daddy Yankee",
-      "points": 456,
-      "appleMusic": 147,
-      "spotify": 119,
-      "itunes": 52,
-      "youtube": 102,
-      "shazam": 33,
-      "deezer": 3,
-      "topCountry": "Chile",
-      "entries": 54
-    },
-    {
-      "rank": 82,
-      "movement": "-4",
+      "movement": "-3",
       "artist": "Don Omar",
       "points": 448,
       "appleMusic": 50,
@@ -1152,22 +1138,22 @@
       "entries": 33
     },
     {
-      "rank": 83,
-      "movement": "+4",
+      "rank": 82,
+      "movement": "+5",
       "artist": "Ayra Starr",
-      "points": 447,
+      "points": 448,
       "appleMusic": 273,
       "spotify": 15,
       "itunes": 29,
-      "youtube": 101,
+      "youtube": 102,
       "shazam": 24,
       "deezer": 5,
       "topCountry": "Nigeria",
       "entries": 68
     },
     {
-      "rank": 84,
-      "movement": "+1",
+      "rank": 83,
+      "movement": "+2",
       "artist": "Jala Brat",
       "points": 436,
       "appleMusic": 316,
@@ -1180,8 +1166,22 @@
       "entries": 9
     },
     {
+      "rank": 84,
+      "movement": "+7",
+      "artist": "Daddy Yankee",
+      "points": 435,
+      "appleMusic": 147,
+      "spotify": 119,
+      "itunes": 52,
+      "youtube": 81,
+      "shazam": 33,
+      "deezer": 3,
+      "topCountry": "Chile",
+      "entries": 53
+    },
+    {
       "rank": 85,
-      "movement": "+5",
+      "movement": "+4",
       "artist": "Pritam",
       "points": 431,
       "appleMusic": 184,
@@ -1251,7 +1251,7 @@
     },
     {
       "rank": 90,
-      "movement": "+7",
+      "movement": "+8",
       "artist": "Sai Abhyankkar",
       "points": 418,
       "appleMusic": 137,
@@ -1265,7 +1265,7 @@
     },
     {
       "rank": 91,
-      "movement": "=",
+      "movement": "-1",
       "artist": "周杰伦",
       "points": 416,
       "appleMusic": 416,
@@ -1279,7 +1279,7 @@
     },
     {
       "rank": 92,
-      "movement": "+1",
+      "movement": "=",
       "artist": "El Bogueto",
       "points": 414,
       "appleMusic": 50,
@@ -1293,7 +1293,7 @@
     },
     {
       "rank": 93,
-      "movement": "+7",
+      "movement": "+6",
       "artist": "Neton Vega",
       "points": 413,
       "appleMusic": 107,
@@ -1307,7 +1307,7 @@
     },
     {
       "rank": 94,
-      "movement": "+2",
+      "movement": "+3",
       "artist": "DJ Goja",
       "points": 410,
       "appleMusic": 28,
@@ -1363,20 +1363,6 @@
     },
     {
       "rank": 98,
-      "movement": "+1",
-      "artist": "Køddy G",
-      "points": 400,
-      "appleMusic": 31,
-      "spotify": 149,
-      "itunes": 2,
-      "youtube": 194,
-      "shazam": 23,
-      "deezer": 2,
-      "topCountry": "Colombia",
-      "entries": 21
-    },
-    {
-      "rank": 99,
       "movement": "+14",
       "artist": "Coldplay",
       "points": 399,
@@ -1390,8 +1376,8 @@
       "entries": 107
     },
     {
-      "rank": 100,
-      "movement": "-14",
+      "rank": 99,
+      "movement": "-13",
       "artist": "Kid Yugi",
       "points": 399,
       "appleMusic": 144,
@@ -1402,6 +1388,20 @@
       "deezer": 0,
       "topCountry": "Italy",
       "entries": 2
+    },
+    {
+      "rank": 100,
+      "movement": "=",
+      "artist": "Køddy G",
+      "points": 398,
+      "appleMusic": 31,
+      "spotify": 149,
+      "itunes": 2,
+      "youtube": 193,
+      "shazam": 23,
+      "deezer": 2,
+      "topCountry": "Colombia",
+      "entries": 20
     },
     {
       "rank": 101,
@@ -1433,7 +1433,7 @@
     },
     {
       "rank": 103,
-      "movement": "-5",
+      "movement": "-7",
       "artist": "Kimo Sounds",
       "points": 388,
       "appleMusic": 31,
@@ -1503,7 +1503,7 @@
     },
     {
       "rank": 108,
-      "movement": "-16",
+      "movement": "-15",
       "artist": "Queens of the Stone Age",
       "points": 373,
       "appleMusic": 287,
@@ -1699,21 +1699,7 @@
     },
     {
       "rank": 122,
-      "movement": "+3",
-      "artist": "Future",
-      "points": 331,
-      "appleMusic": 306,
-      "spotify": 5,
-      "itunes": 18,
-      "youtube": 0,
-      "shazam": 2,
-      "deezer": 1,
-      "topCountry": "United States",
-      "entries": 77
-    },
-    {
-      "rank": 123,
-      "movement": "+4",
+      "movement": "+5",
       "artist": "Tito Double P",
       "points": 330,
       "appleMusic": 161,
@@ -1726,8 +1712,8 @@
       "entries": 18
     },
     {
-      "rank": 124,
-      "movement": "=",
+      "rank": 123,
+      "movement": "+1",
       "artist": "Natanael Cano",
       "points": 327,
       "appleMusic": 133,
@@ -1738,6 +1724,20 @@
       "deezer": 8,
       "topCountry": "Mexico",
       "entries": 10
+    },
+    {
+      "rank": 124,
+      "movement": "+1",
+      "artist": "Future",
+      "points": 327,
+      "appleMusic": 302,
+      "spotify": 5,
+      "itunes": 18,
+      "youtube": 0,
+      "shazam": 2,
+      "deezer": 1,
+      "topCountry": "United States",
+      "entries": 77
     },
     {
       "rank": 125,
@@ -1783,7 +1783,7 @@
     },
     {
       "rank": 128,
-      "movement": "-16",
+      "movement": "-15",
       "artist": "Mariah Carey",
       "points": 324,
       "appleMusic": 105,
@@ -1867,7 +1867,7 @@
     },
     {
       "rank": 134,
-      "movement": "+5",
+      "movement": "+4",
       "artist": "Miyagi",
       "points": 310,
       "appleMusic": 181,
@@ -1895,7 +1895,7 @@
     },
     {
       "rank": 136,
-      "movement": "+10",
+      "movement": "+9",
       "artist": "Eminem",
       "points": 309,
       "appleMusic": 95,
@@ -1923,7 +1923,7 @@
     },
     {
       "rank": 138,
-      "movement": "+7",
+      "movement": "+8",
       "artist": "FOLA",
       "points": 307,
       "appleMusic": 207,
@@ -1979,7 +1979,21 @@
     },
     {
       "rank": 142,
-      "movement": "+6",
+      "movement": "-2",
+      "artist": "Felipe e Rodrigo",
+      "points": 302,
+      "appleMusic": 36,
+      "spotify": 165,
+      "itunes": 13,
+      "youtube": 69,
+      "shazam": 7,
+      "deezer": 12,
+      "topCountry": "Brazil",
+      "entries": 7
+    },
+    {
+      "rank": 143,
+      "movement": "+5",
       "artist": "ROA",
       "points": 301,
       "appleMusic": 75,
@@ -1990,20 +2004,6 @@
       "deezer": 1,
       "topCountry": "Chile",
       "entries": 18
-    },
-    {
-      "rank": 143,
-      "movement": "-3",
-      "artist": "Felipe e Rodrigo",
-      "points": 300,
-      "appleMusic": 36,
-      "spotify": 165,
-      "itunes": 13,
-      "youtube": 67,
-      "shazam": 7,
-      "deezer": 12,
-      "topCountry": "Brazil",
-      "entries": 7
     },
     {
       "rank": 144,
@@ -2063,7 +2063,7 @@
     },
     {
       "rank": 148,
-      "movement": "-10",
+      "movement": "-9",
       "artist": "Kabza De Small",
       "points": 293,
       "appleMusic": 252,
@@ -2077,6 +2077,20 @@
     },
     {
       "rank": 149,
+      "movement": "+4",
+      "artist": "Beéle",
+      "points": 292,
+      "appleMusic": 113,
+      "spotify": 145,
+      "itunes": 4,
+      "youtube": 27,
+      "shazam": 3,
+      "deezer": 0,
+      "topCountry": "Colombia",
+      "entries": 21
+    },
+    {
+      "rank": 150,
       "movement": "+2",
       "artist": "Chappell Roan",
       "points": 292,
@@ -2090,22 +2104,8 @@
       "entries": 51
     },
     {
-      "rank": 150,
-      "movement": "+3",
-      "artist": "Beéle",
-      "points": 292,
-      "appleMusic": 113,
-      "spotify": 145,
-      "itunes": 4,
-      "youtube": 26,
-      "shazam": 3,
-      "deezer": 0,
-      "topCountry": "Colombia",
-      "entries": 21
-    },
-    {
       "rank": 151,
-      "movement": "+24",
+      "movement": "+23",
       "artist": "Chris Brown",
       "points": 290,
       "appleMusic": 229,
@@ -2189,7 +2189,7 @@
     },
     {
       "rank": 157,
-      "movement": "+6",
+      "movement": "+5",
       "artist": "陳奕迅",
       "points": 285,
       "appleMusic": 284,
@@ -2217,7 +2217,7 @@
     },
     {
       "rank": 159,
-      "movement": "-7",
+      "movement": "-8",
       "artist": "Tainy",
       "points": 280,
       "appleMusic": 185,
@@ -2261,7 +2261,7 @@
       "rank": 162,
       "movement": "+32",
       "artist": "Lil Baby",
-      "points": 276,
+      "points": 277,
       "appleMusic": 251,
       "spotify": 3,
       "itunes": 9,
@@ -2331,11 +2331,11 @@
       "rank": 167,
       "movement": "-2",
       "artist": "Sfera Ebbasta",
-      "points": 273,
+      "points": 274,
       "appleMusic": 98,
       "spotify": 140,
       "itunes": 5,
-      "youtube": 28,
+      "youtube": 29,
       "shazam": 2,
       "deezer": 0,
       "topCountry": "Italy",
@@ -2357,7 +2357,7 @@
     },
     {
       "rank": 169,
-      "movement": "-1",
+      "movement": "-2",
       "artist": "Jul",
       "points": 272,
       "appleMusic": 144,
@@ -2371,7 +2371,7 @@
     },
     {
       "rank": 170,
-      "movement": "+32",
+      "movement": "+31",
       "artist": "Shards of Art",
       "points": 272,
       "appleMusic": 0,
@@ -2387,8 +2387,8 @@
       "rank": 171,
       "movement": "+14",
       "artist": "Gunna",
-      "points": 268,
-      "appleMusic": 241,
+      "points": 269,
+      "appleMusic": 242,
       "spotify": 14,
       "itunes": 11,
       "youtube": 0,
@@ -2413,7 +2413,7 @@
     },
     {
       "rank": 173,
-      "movement": "+15",
+      "movement": "+17",
       "artist": "Kings of Leon",
       "points": 265,
       "appleMusic": 45,
@@ -2427,7 +2427,7 @@
     },
     {
       "rank": 174,
-      "movement": "+4",
+      "movement": "+5",
       "artist": "Seyi Vibez",
       "points": 264,
       "appleMusic": 158,
@@ -2441,6 +2441,20 @@
     },
     {
       "rank": 175,
+      "movement": "+3",
+      "artist": "Clarent",
+      "points": 264,
+      "appleMusic": 96,
+      "spotify": 147,
+      "itunes": 0,
+      "youtube": 16,
+      "shazam": 3,
+      "deezer": 1,
+      "topCountry": "Spain",
+      "entries": 19
+    },
+    {
+      "rank": 176,
       "movement": "+4",
       "artist": "TeddyBear",
       "points": 263,
@@ -2454,11 +2468,11 @@
       "entries": 12
     },
     {
-      "rank": 176,
+      "rank": 177,
       "movement": "-2",
       "artist": "Faouzia",
       "points": 263,
-      "appleMusic": 79,
+      "appleMusic": 80,
       "spotify": 80,
       "itunes": 18,
       "youtube": 43,
@@ -2468,8 +2482,8 @@
       "entries": 75
     },
     {
-      "rank": 177,
-      "movement": "+3",
+      "rank": 178,
+      "movement": "+4",
       "artist": "JHAYCO",
       "points": 262,
       "appleMusic": 206,
@@ -2480,20 +2494,6 @@
       "deezer": 1,
       "topCountry": "Colombia",
       "entries": 24
-    },
-    {
-      "rank": 178,
-      "movement": "+25",
-      "artist": "Post Malone",
-      "points": 262,
-      "appleMusic": 109,
-      "spotify": 72,
-      "itunes": 33,
-      "youtube": 19,
-      "shazam": 1,
-      "deezer": 28,
-      "topCountry": "United States",
-      "entries": 70
     },
     {
       "rank": 179,
@@ -2511,17 +2511,17 @@
     },
     {
       "rank": 180,
-      "movement": "+1",
-      "artist": "Clarent",
-      "points": 261,
-      "appleMusic": 96,
-      "spotify": 147,
-      "itunes": 0,
-      "youtube": 13,
-      "shazam": 3,
-      "deezer": 1,
-      "topCountry": "Spain",
-      "entries": 18
+      "movement": "+24",
+      "artist": "Post Malone",
+      "points": 262,
+      "appleMusic": 109,
+      "spotify": 72,
+      "itunes": 33,
+      "youtube": 19,
+      "shazam": 1,
+      "deezer": 28,
+      "topCountry": "United States",
+      "entries": 70
     },
     {
       "rank": 181,
@@ -2567,7 +2567,7 @@
     },
     {
       "rank": 184,
-      "movement": "-22",
+      "movement": "-21",
       "artist": "Beyoncé",
       "points": 258,
       "appleMusic": 124,
@@ -2609,7 +2609,7 @@
     },
     {
       "rank": 187,
-      "movement": "-20",
+      "movement": "-19",
       "artist": "Justice",
       "points": 254,
       "appleMusic": 44,
@@ -2679,7 +2679,7 @@
     },
     {
       "rank": 192,
-      "movement": "+9",
+      "movement": "+10",
       "artist": "Kris R.",
       "points": 249,
       "appleMusic": 116,
@@ -2693,7 +2693,21 @@
     },
     {
       "rank": 193,
-      "movement": "-10",
+      "movement": "+5",
+      "artist": "Wisin",
+      "points": 247,
+      "appleMusic": 30,
+      "spotify": 179,
+      "itunes": 3,
+      "youtube": 33,
+      "shazam": 1,
+      "deezer": 1,
+      "topCountry": "Chile",
+      "entries": 20
+    },
+    {
+      "rank": 194,
+      "movement": "-11",
       "artist": "Valiant",
       "points": 246,
       "appleMusic": 198,
@@ -2706,8 +2720,8 @@
       "entries": 21
     },
     {
-      "rank": 194,
-      "movement": "-10",
+      "rank": 195,
+      "movement": "-11",
       "artist": "Anderson .Paak",
       "points": 244,
       "appleMusic": 217,
@@ -2720,8 +2734,8 @@
       "entries": 77
     },
     {
-      "rank": 195,
-      "movement": "-13",
+      "rank": 196,
+      "movement": "-15",
       "artist": "K/DA",
       "points": 243,
       "appleMusic": 24,
@@ -2734,8 +2748,8 @@
       "entries": 45
     },
     {
-      "rank": 196,
-      "movement": "=",
+      "rank": 197,
+      "movement": "-1",
       "artist": "Bouss",
       "points": 243,
       "appleMusic": 95,
@@ -2748,8 +2762,8 @@
       "entries": 15
     },
     {
-      "rank": 197,
-      "movement": "+3",
+      "rank": 198,
+      "movement": "+2",
       "artist": "J. Cole",
       "points": 241,
       "appleMusic": 183,
@@ -2762,8 +2776,8 @@
       "entries": 72
     },
     {
-      "rank": 198,
-      "movement": "+25",
+      "rank": 199,
+      "movement": "+24",
       "artist": "Mariah the Scientist",
       "points": 238,
       "appleMusic": 196,
@@ -2774,20 +2788,6 @@
       "deezer": 15,
       "topCountry": "The Bahamas",
       "entries": 46
-    },
-    {
-      "rank": 199,
-      "movement": "=",
-      "artist": "Wisin",
-      "points": 237,
-      "appleMusic": 30,
-      "spotify": 179,
-      "itunes": 3,
-      "youtube": 23,
-      "shazam": 1,
-      "deezer": 1,
-      "topCountry": "Chile",
-      "entries": 19
     },
     {
       "rank": 200,
@@ -3071,20 +3071,6 @@
     },
     {
       "rank": 220,
-      "movement": "+",
-      "artist": "Grupo Firme",
-      "points": 224,
-      "appleMusic": 7,
-      "spotify": 78,
-      "itunes": 16,
-      "youtube": 103,
-      "shazam": 15,
-      "deezer": 5,
-      "topCountry": "Mexico",
-      "entries": 12
-    },
-    {
-      "rank": 221,
       "movement": "-",
       "artist": "SDM",
       "points": 223,
@@ -3098,7 +3084,7 @@
       "entries": 16
     },
     {
-      "rank": 222,
+      "rank": 221,
       "movement": "-",
       "artist": "Thiago Navarro Music",
       "points": 222,
@@ -3112,7 +3098,7 @@
       "entries": 28
     },
     {
-      "rank": 223,
+      "rank": 222,
       "movement": "+",
       "artist": "Amr Diab",
       "points": 221,
@@ -3126,7 +3112,7 @@
       "entries": 17
     },
     {
-      "rank": 224,
+      "rank": 223,
       "movement": "+",
       "artist": "Fujii Kaze",
       "points": 221,
@@ -3140,7 +3126,7 @@
       "entries": 8
     },
     {
-      "rank": 225,
+      "rank": 224,
       "movement": "+",
       "artist": "Nate Ruess",
       "points": 220,
@@ -3154,7 +3140,7 @@
       "entries": 91
     },
     {
-      "rank": 226,
+      "rank": 225,
       "movement": "-",
       "artist": "Pink Floyd",
       "points": 219,
@@ -3166,6 +3152,20 @@
       "deezer": 1,
       "topCountry": "New Zealand",
       "entries": 75
+    },
+    {
+      "rank": 226,
+      "movement": "-",
+      "artist": "Grupo Firme",
+      "points": 218,
+      "appleMusic": 5,
+      "spotify": 78,
+      "itunes": 16,
+      "youtube": 101,
+      "shazam": 13,
+      "deezer": 5,
+      "topCountry": "Mexico",
+      "entries": 12
     },
     {
       "rank": 227,
@@ -3227,7 +3227,7 @@
       "rank": 231,
       "movement": "-",
       "artist": "ARIA VEGA",
-      "points": 213,
+      "points": 212,
       "appleMusic": 24,
       "spotify": 54,
       "itunes": 2,
@@ -3351,20 +3351,6 @@
     },
     {
       "rank": 240,
-      "movement": "-",
-      "artist": "Dalvin La Melodia",
-      "points": 205,
-      "appleMusic": 27,
-      "spotify": 38,
-      "itunes": 2,
-      "youtube": 135,
-      "shazam": 0,
-      "deezer": 3,
-      "topCountry": "Dominican Republic",
-      "entries": 13
-    },
-    {
-      "rank": 241,
       "movement": "+",
       "artist": "Mabel Matiz",
       "points": 205,
@@ -3378,7 +3364,7 @@
       "entries": 7
     },
     {
-      "rank": 242,
+      "rank": 241,
       "movement": "+",
       "artist": "ASTI",
       "points": 204,
@@ -3392,7 +3378,7 @@
       "entries": 18
     },
     {
-      "rank": 243,
+      "rank": 242,
       "movement": "+",
       "artist": "ARTIK",
       "points": 204,
@@ -3404,6 +3390,20 @@
       "deezer": 0,
       "topCountry": "Russia",
       "entries": 18
+    },
+    {
+      "rank": 243,
+      "movement": "-",
+      "artist": "Dalvin La Melodia",
+      "points": 203,
+      "appleMusic": 27,
+      "spotify": 38,
+      "itunes": 2,
+      "youtube": 133,
+      "shazam": 0,
+      "deezer": 3,
+      "topCountry": "Dominican Republic",
+      "entries": 13
     },
     {
       "rank": 244,
@@ -3421,7 +3421,7 @@
     },
     {
       "rank": 245,
-      "movement": "-",
+      "movement": "=",
       "artist": "Tinashe",
       "points": 203,
       "appleMusic": 177,
@@ -3660,6 +3660,20 @@
     {
       "rank": 262,
       "movement": "+",
+      "artist": "Dei V",
+      "points": 192,
+      "appleMusic": 111,
+      "spotify": 72,
+      "itunes": 1,
+      "youtube": 7,
+      "shazam": 2,
+      "deezer": 0,
+      "topCountry": "Spain",
+      "entries": 20
+    },
+    {
+      "rank": 263,
+      "movement": "=",
       "artist": "JAŸ-Z",
       "points": 192,
       "appleMusic": 115,
@@ -3672,7 +3686,7 @@
       "entries": 110
     },
     {
-      "rank": 263,
+      "rank": 264,
       "movement": "-",
       "artist": "Metallica",
       "points": 191,
@@ -3686,7 +3700,7 @@
       "entries": 54
     },
     {
-      "rank": 264,
+      "rank": 265,
       "movement": "NEW",
       "artist": "BESTie",
       "points": 191,
@@ -3700,7 +3714,7 @@
       "entries": 18
     },
     {
-      "rank": 265,
+      "rank": 266,
       "movement": "-",
       "artist": "Eypio",
       "points": 190,
@@ -3714,7 +3728,7 @@
       "entries": 12
     },
     {
-      "rank": 266,
+      "rank": 267,
       "movement": "+",
       "artist": "YOASOBI",
       "points": 189,
@@ -3728,22 +3742,8 @@
       "entries": 8
     },
     {
-      "rank": 267,
-      "movement": "+",
-      "artist": "Dei V",
-      "points": 189,
-      "appleMusic": 111,
-      "spotify": 72,
-      "itunes": 1,
-      "youtube": 3,
-      "shazam": 2,
-      "deezer": 0,
-      "topCountry": "Spain",
-      "entries": 19
-    },
-    {
       "rank": 268,
-      "movement": "+",
+      "movement": "=",
       "artist": "ROSALÍA",
       "points": 188,
       "appleMusic": 100,
@@ -3828,6 +3828,34 @@
     {
       "rank": 274,
       "movement": "-",
+      "artist": "Zé Neto",
+      "points": 183,
+      "appleMusic": 34,
+      "spotify": 111,
+      "itunes": 0,
+      "youtube": 35,
+      "shazam": 0,
+      "deezer": 2,
+      "topCountry": "Brazil",
+      "entries": 3
+    },
+    {
+      "rank": 275,
+      "movement": "-",
+      "artist": "Cristiano",
+      "points": 183,
+      "appleMusic": 34,
+      "spotify": 111,
+      "itunes": 0,
+      "youtube": 35,
+      "shazam": 0,
+      "deezer": 2,
+      "topCountry": "Brazil",
+      "entries": 3
+    },
+    {
+      "rank": 276,
+      "movement": "-",
       "artist": "50 Cent",
       "points": 182,
       "appleMusic": 94,
@@ -3838,34 +3866,6 @@
       "deezer": 2,
       "topCountry": "Australia",
       "entries": 85
-    },
-    {
-      "rank": 275,
-      "movement": "-",
-      "artist": "Zé Neto",
-      "points": 182,
-      "appleMusic": 34,
-      "spotify": 111,
-      "itunes": 0,
-      "youtube": 34,
-      "shazam": 0,
-      "deezer": 2,
-      "topCountry": "Brazil",
-      "entries": 3
-    },
-    {
-      "rank": 276,
-      "movement": "-",
-      "artist": "Cristiano",
-      "points": 182,
-      "appleMusic": 34,
-      "spotify": 111,
-      "itunes": 0,
-      "youtube": 34,
-      "shazam": 0,
-      "deezer": 2,
-      "topCountry": "Brazil",
-      "entries": 3
     },
     {
       "rank": 277,
